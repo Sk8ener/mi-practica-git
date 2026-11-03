@@ -1,16 +1,16 @@
 # Mi tema
 
-**Nombre:** escribe tu nombre
+**Nombre:** René
 
 ## Descripción
 
-Escribe tres frases con tus propias palabras sobre el tema elegido.
+Skateboarding y skateparks
 
 ## Imagen
 
 Cuando hayas subido tu imagen, añade una línea como esta, sin las comillas invertidas:
 
-`![Descripción de la imagen](images/mi-imagen.jpg)`
+![Descripción de la imagen](images/mi-imagen.jpg)
 
 ## Fuente
 
