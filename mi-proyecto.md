@@ -10,7 +10,8 @@ Skateboarding y skateparks
 
 Cuando hayas subido tu imagen, añade una línea como esta, sin las comillas invertidas:
 
-![Descripción de la imagen](images/mi-imagen.jpg)
+![Descripción de la imagen](<img width="496" height="340" alt="Captura de pantalla 2026-11-03 114154" src="https://github.com/user-attachments/assets/841cb98e-6235-40cf-82b2-2a3f653faceb" />
+)
 
 ## Fuente
 
